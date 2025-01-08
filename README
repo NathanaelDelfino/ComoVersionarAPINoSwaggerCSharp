@@ -1,17 +1,17 @@
-# TesteApi
+#TesteApi
 
-## Descrição
+##Descrição
 Este projeto é uma API de teste desenvolvida em C#. Ele serve como um exemplo para demonstrar a criação e o uso de APIs utilizando a linguagem C# e o framework .NET.
 
-## Funcionalidades
+##Funcionalidades
 - Criação de um api de teste com versionamento
 
-## Requisitos
+##Requisitos
 - .NET SDK 9.0 ou superior
 - Visual Studio Code
 
 
-## Como executar o projeto
+##Como executar o projeto
 1. Clone o repositório para sua máquina local:
     ```sh
     git clone https://github.com/seu-usuario/TesteApi.git
@@ -29,11 +29,11 @@ Este projeto é uma API de teste desenvolvida em C#. Ele serve como um exemplo p
     dotnet run
     ```
 
-## Estrutura do Projeto
+##Estrutura do Projeto
 - `Controllers/`: Contém os controladores da API.
 - `Program.cs`: Ponto de entrada da aplicação.
 
-## Contribuição
+##Contribuição
 Se você deseja contribuir com este projeto, por favor, siga os passos abaixo:
 1. Faça um fork do repositório.
 2. Crie uma branch para sua feature ou correção de bug:
@@ -50,5 +50,5 @@ Se você deseja contribuir com este projeto, por favor, siga os passos abaixo:
     ```
 5. Abra um Pull Request.
 
-## Licença
+##Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
